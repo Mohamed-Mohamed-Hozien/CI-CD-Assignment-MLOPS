@@ -1,0 +1,23 @@
+artifact_path: file:///c:/Users/midoh/Desktop/UST/Spring/DSAI 406 MLOPS/Assignments/A3/mlruns/2/models/m-271c01db59464cc0bc787497f1db00c7/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.11.14
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.5.1
+mlflow_version: 3.10.1
+model_id: m-271c01db59464cc0bc787497f1db00c7
+model_size_bytes: 186680
+model_uuid: m-271c01db59464cc0bc787497f1db00c7
+prompts: null
+run_id: ea78c8737a094e2e8c3aa701dbdcef50
+utc_time_created: '2026-03-09 22:02:58.706178'
